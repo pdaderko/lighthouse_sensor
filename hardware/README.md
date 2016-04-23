@@ -1,4 +1,3 @@
-# lighthouse_sensor
 Vive Lighthouse Sensor PCB design v1.0 by Pat Daderko (DogP)
  based on Discrete Lighthouse Sensor schematic posted by Alan Yates
 
